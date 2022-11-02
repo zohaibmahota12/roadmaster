@@ -1,0 +1,153 @@
+*{
+                  margin: 0;
+                  padding: 0;
+
+}
+body {
+                  font-family: arial, sans-serif;
+                  /* font-family: Times, "Times New Roman", Georgia, serif; */
+              }
+
+/* ============================================
+          header css start here
+=========================================== */ 
+.header2{
+                  background-color: #251db3;
+
+
+}
+.header-text h3{
+                  color: #f2f6ff;
+                  justify-content: center;
+                 font-size: 1.2rem;
+                  
+}
+.bg-cust{ background-color: aliceblue;
+                  border-bottom: 0.3rem solid #251db3;
+               
+}
+
+.nav-item a{
+                  color: #001688;
+                  text-transform: uppercase;
+                  text-decoration: none;
+                  font-size: 1.2rem;
+                  font-weight:540;
+                 
+                  
+}
+.nav-item a:hover{
+                  border-bottom: #dd0a3a 2px solid;
+                  color: #001688;
+}
+/* ============================================
+          header css start here
+=========================================== */ 
+
+
+/* ============================================
+          Home body css start here
+=========================================== */ 
+.body-image img{
+                  background-size: cover;
+                  width:100%;
+                  opacity: 1;
+                  position: relative;
+                  content: "";
+
+                 
+}
+ /* bookingform css */
+    .bookingform{
+                  background: #0b1b7690;
+                  color: white;
+                  opacity: 0.9;
+             
+    }
+    .world-logo img{ 
+
+                      width: 90px;
+                      /* aspect-ratio: auto 90 / 90; */
+                      height: 90px;
+                  }
+                  .world-text h4{
+                                    font-size: 15px;
+                                    text-transform: uppercase;
+                  }
+    .banner-image img{
+                  background-size: cover;
+                  width:100%;
+                  height: 85%;
+               
+    }
+    .unactive .logo{
+                  opacity: 0.6;
+    }
+    .travel-title h1{
+                  font-size: 4rem;
+                  font-weight: 700;
+
+    }
+    .busbutton{
+                  background-color: #dd0a3a;
+                  color: white;
+    }
+    .busbutton:hover{
+                  background-color: #590418;
+                  color: aliceblue;
+    }
+    .footer {
+                  background-color: #cfcbcb89;
+    }
+    .bus-text{
+                  color: black;
+    }
+    .fa-solid a{
+                  color: black;
+    }
+    .contect-fav-icone{
+                  font-size: 1rem;
+                  color: black;
+                  text-decoration: none;
+                  text-underline-offset: none;
+                  color: #001688;
+                  border-radius: 50%;
+    }
+    .fa-solid .fa-location-dot a{
+                  font-size: 0.3rem;
+    }
+    .fa-solid .fa-phone{
+                  font-size: 1.5rem;
+                  color: #001688;
+
+    }
+  
+
+    .favicone{
+                  font-size: 5rem;
+                  color: #0a57dd;
+                  border-radius: 50%;
+
+    }
+    .favicone:hover{
+                  color: #141d4d;
+                  
+    }
+    .footer2{
+                  background-color: rgba(39, 39, 39, 0.697);
+    }
+    .title-footer h5{
+                  font-size: 1rem;
+                  font-weight: 700;
+    }
+    .main-title-text{
+                  text-align: justify;
+    }
+    /* .logo-place h5{
+                  background: url(t1.png);
+                  background-repeat: no-repeat;
+    } */
+    .chairman{
+                  background-color: #f2f6ff;
+
+}
